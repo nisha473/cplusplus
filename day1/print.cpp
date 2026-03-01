@@ -2,6 +2,6 @@
 using namespace std;
 int main (){
     cout<<"welcome to c++ course\n";
-    cout<<"authorr Nisha Tamang\n";
+    cout<<"Author Nisha Tamang\n";
     return 0;
 }
